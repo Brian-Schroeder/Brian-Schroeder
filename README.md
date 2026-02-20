@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Brian&fontSize=90" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian-Schroeder&theme=react-dark&area=true" width="100%" />
 </div>
 
 ## 🚀 About Me
