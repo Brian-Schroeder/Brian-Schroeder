@@ -42,15 +42,18 @@ Low-level ML implementation focused on understanding algorithm internals and num
 <div align="center">
 
 ### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,sql" />
 
 ### Cloud / Systems / Backend
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,nodejs,mongodb" />
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nodejs,mongodb" />
+### Data Science / ML
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<br>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 ### Frontend / Tools
-
 <img src="https://skillicons.dev/icons?i=react,html,css,git,github,vscode" />
 
 </div>
