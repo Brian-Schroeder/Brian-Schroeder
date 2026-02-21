@@ -60,6 +60,20 @@ Low-level ML implementation focused on understanding algorithm internals and num
 
 ---
 
+## 🧰 Development Workflow
+
+**UI/UX Design:** Figma — interface layout, prototyping, and usability planning  
+
+**Planning & Architecture:** ChatGPT — brainstorming approaches, structuring solutions  
+
+**Development Support:** Claude — implementation guidance and code refinement  
+
+**Debugging Assistance:** GitHub Copilot, Codex — suggestions and troubleshooting support  
+
+**IDEs:** VS Code, Cursor, Antigravity
+
+---
+
 ## 🎯 Current Focus
 
 * Building **cloud-deployable cybersecurity systems**
