@@ -89,26 +89,5 @@ Low-level ML implementation focused on understanding algorithm internals and num
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brian-Schroeder&label=Profile%20views&color=0e75b6&style=flat" />
-</div>
-
-## 🛠 Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,github,vscode,tailwind,mysql" />
-  </a>
-</p>
-
----
-
-## 📊 My Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Schroeder&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian-Schroeder&layout=compact&theme=radical" />
-</p>
-
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Brian-Schroeder&label=Profile%20views&color=0e75b6&style=flat" alt="Brian-Schroeder" />
 </div>
