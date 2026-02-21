@@ -42,7 +42,7 @@ Low-level ML implementation focused on understanding algorithm internals and num
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,sql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,mysql" />
 
 ### Cloud / Systems / Backend
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,nodejs,mongodb" />
