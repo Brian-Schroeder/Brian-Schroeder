@@ -10,12 +10,6 @@ I build **cloud-hosted systems, security tools, and full-stack applications** de
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian-Schroeder&theme=react-dark&area=true&hide_border=true" width="95%" />
-</div>
-
----
-
 ## 🛡 Featured Projects
 
 ### **Patriot IDS — Cloud Intrusion Detection System**
