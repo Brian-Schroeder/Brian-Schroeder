@@ -71,10 +71,11 @@ A low-level machine learning library focused on algorithm internals and numerica
 
 ## Current Focus
 
-- Building cloud-deployable cybersecurity systems
-- Expanding experience with AWS infrastructure and containerized deployments
-- Strengthening knowledge of secure programming, data mining, and algorithm analysis
-- Preparing for roles in cloud engineering, cybersecurity, and defense technology
+- **Natural Language Processing:** building models and pipelines for understanding and generating text
+- **Rust Development:** writing fast, memory-safe services and applications
+- **Cloud Engineering:** deploying, operating, and scaling applications on cloud infrastructure
+- **AI Engineering:** integrating large language models into reliable production software
+- **Agent Building:** designing autonomous agents that plan, use tools, and complete multi-step tasks
 
 ---
 
