@@ -2,109 +2,95 @@
 
 # Brian Schroeder
 
-**Computer Science Student • Cloud & Cybersecurity Builder • Systems-Focused Developer**
-
-I build **cloud-hosted systems, security tools, and full-stack applications** designed for real deployment environments — focusing on scalability, monitoring, and intelligent detection.
+Computer Science Student | Cloud and Cybersecurity | Systems Development
 
 </div>
 
----
-
-## 🛡 Featured Projects
-
-### **Patriot IDS — Cloud Intrusion Detection System**
-
-Deployed intrusion detection platform built during a hackathon to monitor network traffic and alert on malicious behavior.
-
-* Detects anomalies and classifies threats in incoming traffic
-* Stores and analyzes traffic data for security insights
-* Sends alerts for high-risk events
-* Built for **real cloud deployment**, not just simulation
-
-**Tech:** Python • Docker • AWS • MongoDB • Machine Learning
+I build cloud-hosted systems, security tools, and full-stack applications intended for real deployment environments, with a focus on scalability, monitoring, and intelligent threat detection.
 
 ---
 
-### **Machine Learning Library in C** *(Work in Progress)*
+## Featured Projects
 
-Low-level ML implementation focused on understanding algorithm internals and numerical behavior.
+### Patriot IDS: Cloud Intrusion Detection System
 
-* Implements **KNN, Logistic Regression, Linear Regression**
-* Built entirely in **C** for performance and control
-* Designed to expose the math behind ML models
+An intrusion detection platform, built during a hackathon, that monitors network traffic and alerts on malicious behavior.
 
-**Tech:** C • Numerical Computing • Algorithms
+- Detects anomalies and classifies threats in incoming traffic
+- Stores and analyzes traffic data for security insights
+- Issues alerts for high-risk events
+- Designed and deployed on cloud infrastructure rather than in simulation
+
+**Technologies:** Python, Docker, AWS, MongoDB, Machine Learning
+
+### Machine Learning Library in C (In Progress)
+
+A low-level machine learning library focused on algorithm internals and numerical behavior.
+
+- Implements k-nearest neighbors, logistic regression, and linear regression
+- Written entirely in C for performance and fine-grained control
+- Exposes the underlying mathematics of each model
+
+**Technologies:** C, Numerical Computing, Algorithms
 
 ---
 
-## ⚙️ Tech Stack
+## Technical Skills
 
 <div align="center">
 
-### Languages
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,mysql,postgres" />
 
-### Cloud / Systems / Backend
+**Cloud, Systems, and Backend**
+
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,nodejs,mongodb" />
 
-### Data Science / ML
+**Data Science and Machine Learning**
+
 <img src="https://skillicons.dev/icons?i=pytorch" />
 <br>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-### Frontend / Tools
+**Frontend and Tools**
+
 <img src="https://skillicons.dev/icons?i=react,html,css,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🧰 Development Workflow
+## Development Workflow
 
-**UI/UX Design:** Figma — interface layout, prototyping, and usability planning  
-
-**Planning & Architecture:** ChatGPT — brainstorming approaches, structuring solutions  
-
-**Development Support:** Claude — implementation guidance and code refinement  
-
-**Debugging Assistance:** GitHub Copilot, Codex — suggestions and troubleshooting support  
-
-**IDEs:** VS Code, Cursor, Antigravity
+- **Claude:** implementation, code review, and refinement
+- **ChatGPT:** planning, architecture, and evaluating design approaches
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-* Building **cloud-deployable cybersecurity systems**
-* Expanding experience with **AWS infrastructure & containerized deployments**
-* Strengthening knowledge in **secure programming, data mining, and algorithm analysis**
-* Preparing for **cloud engineering / cybersecurity / defense tech roles**
+- Building cloud-deployable cybersecurity systems
+- Expanding experience with AWS infrastructure and containerized deployments
+- Strengthening knowledge of secure programming, data mining, and algorithm analysis
+- Preparing for roles in cloud engineering, cybersecurity, and defense technology
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian-Schroeder&theme=react-dark&area=true" width="100%" />
-</div>
+## GitHub Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Schroeder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brian-Schroeder&theme=github-compact&hide_border=true&area=true" width="100%" />
 
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian-Schroeder&layout=compact&theme=radical&hide_border=true" />
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brian-Schroeder&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brian-Schroeder&layout=compact&theme=default&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Connect
+## Contact
 
-* **LinkedIn:** [www.linkedin.com/in/brian-g-schroeder](http://www.linkedin.com/in/brian-g-schroeder)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brian-Schroeder&label=Profile%20views&color=0e75b6&style=flat" alt="Brian-Schroeder" />
-</div>
+- **LinkedIn:** [linkedin.com/in/brian-g-schroeder](https://www.linkedin.com/in/brian-g-schroeder)
